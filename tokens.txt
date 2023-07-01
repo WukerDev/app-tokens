@@ -1,1 +1,1 @@
-crq-app=false
+crq-app=true
